@@ -53,8 +53,9 @@
 * 검정과 회귀 부분 이 두 가지로 코드 스타일이 달라지는 둘 다 숙지
 * summary를 통해 추출되는 값의 의미 알기
 * 3유형의 준비가 부족하여 추가적으로 스터디 진행
-  * [빅분기 실기 3유형 1](https://github.com/Jugahy/Big_Data_Analyzer/blob/main/%EB%B9%85%EB%B6%84%EA%B8%B0%20%EC%8B%A4%EA%B8%B0%203%EC%9C%A0%ED%98%95_1.ipynb)
-  * [빅분기 실기 3유형 2](https://github.com/Jugahy/Big_Data_Analyzer/blob/main/%EB%B9%85%EB%B6%84%EA%B8%B0%20%EC%8B%A4%EA%B8%B0%203%EC%9C%A0%ED%98%95_2.ipynb)
+  * [빅분기 실기 3유형 1](https://github.com/Jugahy/Big_Data_Analyzer/blob/main/%EC%A0%9C%203%EC%9C%A0%ED%98%95%20%EC%A0%95%EB%A6%AC/%EB%B9%85%EB%B6%84%EA%B8%B0%20%EC%8B%A4%EA%B8%B0%203%EC%9C%A0%ED%98%95_1.ipynb)
+  * [빅분기 실기 3유형 2](https://github.com/Jugahy/Big_Data_Analyzer/blob/main/%EC%A0%9C%203%EC%9C%A0%ED%98%95%20%EC%A0%95%EB%A6%AC/%EB%B9%85%EB%B6%84%EA%B8%B0%20%EC%8B%A4%EA%B8%B0%203%EC%9C%A0%ED%98%95_2.ipynb)
+  * [빅분기 실기 3유형 알짜베기](https://github.com/Jugahy/Big_Data_Analyzer/blob/main/%EC%A0%9C%203%EC%9C%A0%ED%98%95%20%EC%A0%95%EB%A6%AC/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EA%B8%B0%EC%82%AC%20%EC%8B%A4%EA%B8%B0%203%EC%9C%A0%ED%98%95%20%EC%95%8C%EC%A7%9C%EB%B2%A0%EA%B8%B0.ipynb)
 
 </br>
 
